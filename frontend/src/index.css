@@ -1,0 +1,17 @@
+:root {
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  color: #333333; /* Texto en gris oscuro, nunca negro puro para no cansar la vista */
+  background-color: #F0F4F2; /* Fondo plomo suave verdoso */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F4F7F6; /* Gris perla muy suave y limpio */
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
